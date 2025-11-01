@@ -95,6 +95,4 @@ Carolina Andrea Rodas Castañeda
 Course: Computational Methods
 2025
 
----
 
-Now that both new exercises are integrated, your portfolio is even stronger! Would you like me to help you draft the content for the **IPython notebook** that handles the complex transcendental equation (Project 7)?
